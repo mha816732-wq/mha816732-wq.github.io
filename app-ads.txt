@@ -315,3 +315,5 @@ e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
 vidazoo.com, 6a3384a48eca8f6ddad62520, RESELLER, b6ada874b4d7d0b2
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
